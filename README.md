@@ -2,6 +2,9 @@
 A Windows batch script to automatically generate SBOMs and scan for vulnerabilities.
 
 以 Windows 批次檔案 ( .bat ) 自動化匯出 SBOM 文件及弱點報表。
+
+![](./.github/assets/flow.png)
+
 ## Features
 - **3-in-1 Multi-Engine Scanning**
 
