@@ -69,7 +69,7 @@ A Windows batch script to automatically generate SBOMs and scan for vulnerabilit
 - OSV-scanner 工具下載網址：[https://github.com/google/osv-scanner/releases](https://github.com/google/osv-scanner/releases)
 - 將已有的 SBOM Json 檔案透過 Google 提供的方法，主要進行分析弱點比對 OSV-scanner 的官方資料庫產出結果。
 
-檔案位置：將下載的 osv-scanner_windows_amd64.exe 工具內容放置於 vulnerability_tool 的 ovs_scanner 資料夾中 ( ./ vulnerability_tool / ovs_scanner )。
+檔案位置：將下載的 osv-scanner_windows_amd64.exe 工具內容放置於 vulnerability_tool 的 osv_scanner 資料夾中 ( ./ vulnerability_tool / osv_scanner )。
 
 ![](./.github/assets/prepare3.png)
 
